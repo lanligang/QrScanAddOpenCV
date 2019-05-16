@@ -1,0 +1,2 @@
+# QrScanAddOpenCV
+QrScanAddOpenCV
